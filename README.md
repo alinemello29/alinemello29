@@ -30,7 +30,5 @@
      <a href="https://wa.me/18981947015" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
      
      
- ------------------------------------
  
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC3G5CSZLKDi4XHvMzuzs4aDDT8ptl9YsN7TUozM8djPGs4NSmMaLwbzasxnQg1BFV_g&usqp=CAU
 
