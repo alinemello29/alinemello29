@@ -1,7 +1,6 @@
  💬 Olá eu sou a Aline Mello 
  
- 
- 👩🏻‍🎓Estudante de análise e desenvolvimento de sistema
+-----------------------
  
  
 <div align="center">
