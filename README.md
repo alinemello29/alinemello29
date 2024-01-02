@@ -87,7 +87,7 @@ Meu nível de experiência real com a linguagem sempre aumentará, nunca diminui
 
   ##
   
-## Sistema Operacional (SO):
+### Sistema Operacional (SO):
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
