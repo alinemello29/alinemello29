@@ -84,8 +84,10 @@ Meu nível de experiência real com a linguagem sempre aumentará, nunca diminui
  <img align="center" alt="Emblemba Adobe" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
  <img align="center" alt="Emblemba Google Analystcs" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 </div>
+
   ##
-### Sistema Operacional (SO):
+  
+## Sistema Operacional (SO):
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
